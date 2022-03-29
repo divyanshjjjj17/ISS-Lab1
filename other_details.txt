@@ -1,2 +1,2 @@
-roll : 2021101031
-Branch : CSE
+Branch: CSE
+roll: 2021101031
